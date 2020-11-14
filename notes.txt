@@ -1,0 +1,4 @@
+cara menjalankan 
+- docker-compose up -d
+
+selanjutnya jalankan client mysql
